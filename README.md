@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @GedaUwU
-- 👀 I’m interested in improving my developer skills and build some apps for personal use
-- 🌱 I’m currently learning django with mongo for backend and frontend technologies such as bootstrap, jquery, sass, react
-- 💞️ I’m looking to get my first developer job
-- 📫 You can find me on Email: hola@geda.me or Twitter: @gedauwu
-
-<!---
-GedaUwU/GedaUwU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Geda
+- 👀 I’m interested in learning to build web apps for personal use and create a portfolio to help me get a developer job
+- 🌱 I’m currently learning a fullstack path with javascript in the frontend and the backend
+- 💞️ I’m looking for getting a remote developer job
+- 📫 You can find me on Email: gjbg1234@gmail.com
